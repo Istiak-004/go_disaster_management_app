@@ -1,0 +1,3 @@
+# go to folder disaster_management_backend/cmd/server
+# run
+go run main.go
